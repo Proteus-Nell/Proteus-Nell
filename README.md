@@ -6,7 +6,7 @@
 <br>Hiya! I go by **Proteus**, and I am currently attending the Malaysian campus of the **University of Nottingham**. <br>
 
 ## Intro: <br>
-Surprisingly, I've started using GitHub actively this October; however, it's been a pretty seamless ride so far. And for those who are wondering, ***Project Leviathan*** is the designation assigned to this project which revolves around all the projects and academic, scientific and extracurricular notes that I have contributed and worked on over the course of my studies and beyond that.
+Surprisingly, I've started using GitHub around October of 2025, and it has been a pretty seamless ride so far. And for those who are wondering, ***Project Leviathan*** is the designation assigned to this project which revolves around all the projects and academic or otherwise that I have contributed to and worked on over the course of my studies and beyond that.
 
 ## Links: <br>
 [Notion Hub](https://mahmoudsallam.notion.site/) - This is where I store my academic, educational, and extracurricular notes. <br>
